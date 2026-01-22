@@ -4,7 +4,7 @@
 *.pyc
 .DS_Store
 .claude
-
+.venv/
 # Node.js / npm
 node_modules/
 npm-debug.log*
